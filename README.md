@@ -3,7 +3,7 @@
 
 - 💻  This is my [youtube channel][youtube] with some of my videos teaching stata and R.
 - 📘 This is a [repository][course] i did to show the M.A. students how to use python for basic econometrics.
-- 📗 This is a [website][course2] (in progress) where I made some exercises and explanations using the Stata software for the advanced econometrics course at the B.A in economics.
+- 📗 This is a [website][course2] where I made some exercises and explanations using the Stata software for the advanced econometrics course at the B.A in economics.
 
 
 ### Connect with me:
