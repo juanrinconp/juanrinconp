@@ -38,7 +38,7 @@
 [website]: https://juanrinconp.github.io/website/
 [course]: https://github.com/juanrinconp/Monitorias-Econometria/blob/main/Monitoria-Notebooks/%C3%8Dndice.ipynb
 [course2]: https://juanrinconp.github.io/Econometria_Avanzada/index.html
-[youtube]: https://www.youtube.com/watch?v=r62cg8IDpc8&list=PLdC_cea9YByoAfhm8dtrbHvhH3zgwBVKn&ab_channel=JuanEstebanRinconPoveda
+[youtube]: https://www.youtube.com/watch?v=g08gux5BYJo&list=PLdC_cea9YByoAfhm8dtrbHvhH3zgwBVKn&index=5&ab_channel=JuanEstebanRinconPoveda
 [instagram]: https://www.instagram.com/juanes.rinconp/?hl=es-la
 [linkedin]: https://www.linkedin.com/in/juanrinconp/
 
