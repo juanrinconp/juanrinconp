@@ -1,6 +1,7 @@
 ## Hi there, I'm Juan Rincón 👋
 
 
+- 🔭  This is my [data nalytics portfolio][website] with some of my most recent projects.
 - 💻  This is my [youtube channel][youtube] with some of my videos teaching stata and R.
 - 📘 This is a [repository][course] i did to show the M.A. students how to use python for basic econometrics.
 - 📗 This is a [website][course2] where I made some exercises and explanations using the Stata software for the advanced econometrics course at the B.A in economics.
@@ -35,7 +36,7 @@
 
 
 
-[website]: https://juanrinconp.github.io/website/
+[website]: https://juanrinconp.github.io/portfolio/
 [course]: https://github.com/juanrinconp/Monitorias-Econometria/blob/main/Monitoria-Notebooks/%C3%8Dndice.ipynb
 [course2]: https://juanrinconp.github.io/Econometria_Avanzada/index.html
 [youtube]: https://www.youtube.com/watch?v=g08gux5BYJo&list=PLdC_cea9YByoAfhm8dtrbHvhH3zgwBVKn&index=5&ab_channel=JuanEstebanRinconPoveda
