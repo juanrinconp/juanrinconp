@@ -1,7 +1,6 @@
 ## Hi there, I'm Juan Rincón 👋
 
 
-- 🔭  This is my [data analytics portfolio][website] with some of my most recent projects.
 - 💻  This is my [youtube channel][youtube] with some of my videos teaching stata.
 
 
